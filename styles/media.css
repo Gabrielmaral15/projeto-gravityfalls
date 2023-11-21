@@ -1,0 +1,27 @@
+@media screen and (max-width: 760px) {
+  header {
+    flex-direction: column;
+    row-gap: 32px;
+  }
+
+  .navigation-social {
+    margin: 0 auto;
+  }
+
+  main-info {
+    flex-direction: column;
+    margin-top: 72px;
+  }
+
+  h2 {
+    font-size: 38px;
+  }
+
+  img {
+    display: none;
+  }
+
+  ul {
+    text-align: center;
+  }
+}
